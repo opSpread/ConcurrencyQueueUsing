@@ -1,0 +1,7 @@
+C:\Users\op399\source\repos\ConsoleApp1\ProcessQueueWithMultiThread\bin\Debug\ProcessQueueWithMultiThread.exe.config
+C:\Users\op399\source\repos\ConsoleApp1\ProcessQueueWithMultiThread\bin\Debug\ProcessQueueWithMultiThread.exe
+C:\Users\op399\source\repos\ConsoleApp1\ProcessQueueWithMultiThread\bin\Debug\ProcessQueueWithMultiThread.pdb
+C:\Users\op399\source\repos\ConsoleApp1\ProcessQueueWithMultiThread\obj\Debug\ProcessQueueWithMultiThread.csprojAssemblyReference.cache
+C:\Users\op399\source\repos\ConsoleApp1\ProcessQueueWithMultiThread\obj\Debug\ProcessQueueWithMultiThread.csproj.CoreCompileInputs.cache
+C:\Users\op399\source\repos\ConsoleApp1\ProcessQueueWithMultiThread\obj\Debug\ProcessQueueWithMultiThread.exe
+C:\Users\op399\source\repos\ConsoleApp1\ProcessQueueWithMultiThread\obj\Debug\ProcessQueueWithMultiThread.pdb
